@@ -1,7 +1,9 @@
 # Welcome to Mantra AI Releases 🌠
 
-<!-- ![Mantra AI Banner](URL_to_banner_image) -->
+Too excited to wait? [Jump to Installation](#installation) and start your journey with Mantra AI today!
 
+
+<!-- ![Mantra AI Banner](URL_to_banner_image) -->
 ## Embark on a Journey of Enlightened Productivity and Wellness
 
 Hello, visionaries and pathfinders! You've discovered the pulse of Mantra AI, where each update is a stride towards redefining productivity and personal well-being, with a steadfast commitment to safety and positivity. 🌿
@@ -75,3 +77,19 @@ Mantra AI is not just our creation; it's our commitment to a brighter, healthier
 ---
 
 Step into a future where productivity and well-being flourish side by side, guided by the secure and positive environment of Mantra AI. Let's embark on this transformative journey together! 🌟🌿
+
+
+## Installation
+
+To install Mantra AI, follow these simple steps:
+<!-- Mantra is on github releases-->
+1. **Download:** Access the [Releases](https://github.com/MantraAI/Mantra/releases) section to get the latest, feature packed version of Mantra AI.
+2. Once you are at the Releases page, download the latest version of Mantra AI for your operating system.
+
+**On Windows:**
+- Download the `Mantra-Setup-X.Y.Z.exe` file.
+- Run the installer and follow the on-screen instructions to complete the installation.
+
+**On macOS:**
+- Download the `Mantra-X.Y.Z-arm64.dmg` file.
+- Open the downloaded file and drag the Mantra AI app to your Applications folder.
